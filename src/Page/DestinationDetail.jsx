@@ -1,10 +1,10 @@
 import React from "react";
 
-const Transport = () => {
+const DestinationDetail = () => {
     return(
         <div>
 
         </div>
     )
 }
-export default Transport;
+export default DestinationDetail;
